@@ -1,0 +1,16 @@
+body{
+    background: red;
+}
+
+.container{
+    width: 900px;
+    height: 600px;
+
+}
+
+.btn{
+    height: 60px;
+    width: 70px;
+    margin: 3px;
+}
+
